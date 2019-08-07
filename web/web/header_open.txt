@@ -1,0 +1,2 @@
+<h1 class="display-4 text-white mt-5 mb-2">준비중입니다</h1>
+<p class="lead mb-5 text-white-50">준비중입니다. 이용에 불편을 드려서 죄송합니다.</p>

@@ -1,0 +1,2 @@
+<h1 class="display-4 text-white mt-5 mb-2">Notice</h1>
+<p class="lead mb-5 text-white-50">게시판의 주요 공지를 확인하고, 더보기에서 유용한 사이트들을 확인 해보세요!</p>

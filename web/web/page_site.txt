@@ -1,0 +1,25 @@
+
+    <div class="row">
+      <div class="col-md-8 mb-5">
+        <h2>유용한 웹사이트</h2>
+        <hr>
+        <p>- 스크롤을 내리면 유용한 웹사이트들이 분야 별로 있어, 손쉽게 찾을 수 있습니다.</p>
+        <p>- 사이트 추가문의 개발자정보란에서 연락 바람.</p>
+      </div>
+      <div class="col-md-4 mb-5">
+        <h2>개발자 정보</h2>
+        <hr>
+        <address>
+          <strong>Start Noitce</strong>
+          <br>시스템 오류, 광고문의,
+          <br>궁금한것 아래로 연락주세요.
+          <br>
+        </address>
+        <address>
+          <abbr title="Phone">P:</abbr>
+          010-9711-4814
+          <br>
+          <abbr title="Email">E:</abbr>
+          <a href="mailto:#">dlmajang@naver.com</a>
+        </address>
+      </div>
